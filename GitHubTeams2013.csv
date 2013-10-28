@@ -1,63 +1,63 @@
-CSID,GitHubID,PeerGitHubID,PeerCSID,team,,Student_ID,Surname,Forename,Course,Username,Email_Address,Tutor,Title
-Axs31u,Mrsansoms,exj,exj01u,1,1,4165505,Sansom,Adam,BSc Hons Computer Science with Artificial Intelligence (G4G7),axs31u,psyas4@nottingham.ac.uk,mdf,Mr
-goh01u,jiggyghallam,nargarawr,cxk01u,1,1,4162162,Hallam,George Oliver,MSci Hons Computer Science with Artificial Intelligence (G4G1),goh01u,psygh@nottingham.ac.uk,srb,Mr
-jxs21u,jmjs44,psytn2,txn02u,1,1,4160347,Sayers,Joshua,BSc Hons Computer Science (G400),jxs21u,psyjs4@nottingham.ac.uk,gtr,Mr
-rxj01u,rossjarvis,arana5683,axr01u,1,1,4171950,Jarvis,Ross,BSc Hons Computer Science (G400),rxj01u,psyrj@nottingham.ac.uk,pkl,Mr
-vxj11u,vai2liz,ntoka,kxs01u,1,1,4157927,Jarusevicius,Vaidas,MSci Hons Computer Science with Artificial Intelligence (G4G1),vxj11u,psyvj1@nottingham.ac.uk,nza,Mr
-axr01u,arana5683,rossjarvis,rxj01u,2,1,4173318,Rana,Aakash,MSci Hons Computer Science (G404),axr01u,psyar1@nottingham.ac.uk,pos,Mr
-cxk01u,nargarawr,jiggyghallam,goh01u,2,1,4159378,Knott,Craig,MSci Hons Computer Science (G404),cxk01u,psyck@nottingham.ac.uk,exo,Mr
-exj01u,exj,Mrsansoms,axs31u,2,1,4167827,Jones,Ethan,BSc Hons Computer Science with Artificial Intelligence (G4G7),exj01u,psyej@nottingham.ac.uk,srb,Mr
-kxs01u,ntoka,Vai2liz,vxj11u,2,1,4165833,Sendrauskas,Kristijonas,BSc Hons Computer Science (G400),kxs01u,psyks@nottingham.ac.uk,vxc,Mr
-txn02u,psytn2,jmjs44,jxs21u,2,1,4188797,Nguyen Bui,Tai,BSc Hons Computer Science (G400),txn02u,psytn2@nottingham.ac.uk,vxc,Mr
-axs11u,arjSharma,psygs1,gxs11u,3,1,4171646,Sharma,Arjun,BSc Hons Computer Science (G400),axs11u,psyas2@nottingham.ac.uk,gtr,Mr
-kxm01u,kevinmandalia,Alexj55,ajj01u,3,1,4158636,Mandalia,Kevin,MSci Hons Computer Science (G404),kxm01u,psykm1@nottingham.ac.uk,srb,Mr
-mxa11u,ma3574,smenus,saf01u,3,1,4156421,Ahmed,Muhammed,BSc Hons Software Engineering (G601),mxa11u,psyma5@nottingham.ac.uk,cah,Mr
-mxn01u,Melanie26,kixa,mxc01u,3,1,4118678,Niemandt,Melanie,BSc Hons Computer Science (G400),mxn01u,psymn@nottingham.ac.uk,srb,Miss
-mxp11u,SirFillLips,MoeBadr,mxa01u,3,1,4168183,Phillips,Matthew,MSci Hons Computer Science (G404),mxp11u,psymp@nottingham.ac.uk,pos,Mr
-ajj01u,alexj55,kevinmandalia,kxm01u,4,1,4167125,Jenkins,Alexander John Philip,BSc Hons Computer Science (G400),ajj01u,psyajj@nottingham.ac.uk,gtr,Mr
-mxa01u,MoeBadr,SirFillLips,mxp11u,4,1,4154584,Abdullah,Mohamed,BSc Hons Computer Science (G400),mxa01u,psyma6@nottingham.ac.uk,mdf,Mr
-mxc01u,kixa,Melanie26,mxn01u,4,1,4145168,Coward,Michael,BSc Hons Computer Science with Artificial Intelligence (G4G7),mxc01u,psymc@nottingham.ac.uk,srb,Mr
-gxs11u,psygs1,arjSharma4,axs11u,4,1,4160006,Santaniello,Gaetano,BSc Hons Computer Science (G400),gxs11u,psygs1@nottingham.ac.uk,gtr,Mr
-saf01u,smenus,ma3574,mxa11u,4,1,4165084,Fleming,Sean Alexander,BSc Hons Software Engineering (G601),saf01u,psysf2@nottingham.ac.uk,cah,Mr
-axm33u,a51f89,seantgd,sxd20u,5,,4146386,Mohammed,Asif,BSc Ordinary Computer Science and AI,,psyam@nottingham.ac.uk,,Mr
-dxm01u,danjmorris,lukehovell,lxh01u,5,1,4164136,Morris,Daniel,BSc Hons Computer Science (G400),dxm01u,psydm@nottingham.ac.uk,srb,Mr
-hyb01u,hmonkey,entreated,rxf01u,5,1,4165091,Broadhead,Hayden Yaneeve,BSc Hons Computer Science (G400),hyb01u,psyhb@nottingham.ac.uk,pkl,Mr
-mjn01u,marvinnicholl,roselady,crn01u,5,1,4115598,Nicholl,Marvin James,MSci Hons Computer Science (G404),mjn01u,psymn1@nottingham.ac.uk,cah,Mr
-mjs03u,stylesm,Psyec,esc01u,5,1,4111079,Styles,Matthew James,BSc Hons Computer Science (G400),mjs03u,psydmjs@nottingham.ac.uk,exo,Mr
-esc01u,Psyec,stylesm,mjs03u,6,1,4158710,Christian,Emma Sarah,BSc Hons Computer Science (G400),esc01u,psyec@nottingham.ac.uk,mdf,Miss
-lxh01u,lukehovell,danjmorris,dxm01u,6,1,4165823,Hovell,Luke,BSc Hons Computer Science (G400),lxh01u,psylh1@nottingham.ac.uk,pkl,Mr
-rxf01u,entreated,hmonkey,hyb01u,6,1,4157939,Fulton,Ryan,BSc Hons Computer Science (G400),rxf01u,psyrf@nottingham.ac.uk,pkl,Mr
-sxd20u,seantdg,a51f89,axm33u,6,1,4120286,Davis,Sean,BSc Hons Computer Science (G400),sxd20u,psysd1@nottingham.ac.uk,mlw,Mr
-crn01u,roselady,marvinnicholl,mjn01u,6,1,4161001,Nortje,Caitlin Rachael,MSci Hons Computer Science (G404),crn01u,psycrno@nottingham.ac.uk,pos,Ms
-axp01u,AntreasPas,AntonNotts  ,axd00u,7,1,4153262,Paschalis,Antreas,BSc Hons Computer Science (G400),axp01u,psyap1@nottingham.ac.uk,gtr,Mr
-axs21u,armani-sharif,krhendro,hxa03u,7,1,4086929,Sharif,Armani,BSc Hons Computer Science (G400),axs21u,psydas1@nottingham.ac.uk,gtr,Mr
-bxa01u,Benalexander57,BenYeomans,bmy01u,7,1,4173019,Alexander,Ben,BSc Hons Computer Science (G400),bxa01u,psyba1@nottingham.ac.uk,mdf,Mr
-kes11u,katieS100,teato,too01u,7,1,4158911,Skelton,Kathryn Elizabeth,MSci Hons Computer Science (G404),kes11u,pmyks@nottingham.ac.uk,pos,Miss
-oxc01u,oxc01u,xxd03m,xxd03m,7,1,4160852,Cojocaru,Octavian-Laurentiu,MSci Hons Computer Science with Artificial Intelligence (G4G1),oxc01u,psyoc@nottingham.ac.uk,nza,Mr
-rht01u,rtamizian,tomduncs,tjd01u,7,1,4165925,Tamizian,Raffi Haig,MSci Hons Computer Science (G404),rht01u,psyrt2@nottingham.ac.uk,vxc,Mr
-axd00u,AntonNotts  ,AntreasPas,axp01u,8,1,4094693,Dobrovolskyy,Anton,MSci Hons Computer Science (G404),axd00u,pmydad@nottingham.ac.uk,mdf,Mr
-bmy01u,BenYeomans,Benalexander57,bxa01u,8,1,4160015,Yeomans,Benjamin Michael,BSc Hons Computer Science (G400),bmy01u,psyby1@nottingham.ac.uk,cxw,Mr
-hxa03u,krhendro,armani-sharif,axs21u,8,1,4215320,Arieyanto,Hendro,BSc Hons Computer Science with Artificial Intelligence (G4G7),hxa03u,psyha2@nottingham.ac.uk,cah,Mr
-tjd01u,tomduncs,rtamazian,rht01u,8,1,4117625,Duncan,Thomas James,BSc Hons Computer Science (G400),tjd01u,psytd@nottingham.ac.uk,srb,Mr
-too01u,teato,katieS100,kes11u,8,1,4119321,Olushola,Taiwo Oluwabunmi,BSc Hons Computer Science (G400),too01u,psyto@nottingham.ac.uk,cah,Miss
-xxd03m,xxd03m,oxc01u,oxc01u,8,1,4214966,Du,Xiao,MSc Information Technology (G507),xxd03m,itxxd1@nottingham.ac.uk,gtr,Mr
-gpb01u,barrettg93,,,9,1,4158731,Barrett,George Phillip,BSc Hons Computer Science (G400),gpb01u,psygpb@nottingham.ac.uk,cah,Mr
-jxr11u,joshrose54,,,9,1,4173094,Rose,Joshua,BSc Jt Hons Computer Science and Management Studies (GN42),jxr11u,psyjr1@nottingham.ac.uk,exo,Mr
-gxt01u,Gtret,,,9,1,4164503,Tretyakov,George,BSc Hons Computer Science (G400),gxt01u,psygt@nottingham.ac.uk,exo,Mr
-mxp21u,paymp1,,,9,1,4165389,Patel,Mehul,BSc Hons Computer Science (G400),mxp21u,paymp1@nottingham.ac.uk,pos,Mr
-exg00u,ewtia,,,9,1,4116674,Gudalevich,Evelina,BSc Jt Hons Computer Science and Management Studies (GN42),exg00u,psyeg1@nottingham.ac.uk,gtr,Miss
-tjh01u,Tom Hadkiss,,,9,,4158118,Hadkiss,Thomas James,BSc Hons Computer Science (G400),tjh01u,psyth1@nottingham.ac.uk,pkl,Mr
-jbh00u,,,,10,,4122597,Hooper,Jacca Barcla,MSci Hons Computer Science (G404),jbh00u,psyjh1@nottingham.ac.uk,mlw,Mr
-jxs01u,Sandall,,,10,,4157332,Sandall,Jack,BSc Hons Computer Science (G400),jxs01u,psyjs5@nottingham.ac.uk,gtr,Mr
-kxb01u,,,,10,,4158871,Beckles,Kyle,BSc Hons Software Engineering (G601),kxb01u,psykb1@nottingham.ac.uk,cah,Mr
-sxs11u,stonesam92,,,10,,4146271,Stone,Sam,MSci Hons Computer Science (G404),sxs11u,plyss1@nottingham.ac.uk,exo,Mr
-txk10u,tkuster92,,,10,,4121314,Kuster,Thomas,BSc Hons Computer Science (G400),txk10u,psytk1@nottingham.ac.uk,gtr,Mr
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,42,,,,,,,,,,,
+CSID,GitHubID,PeerGitHubID,PeerCSID,team,,Student_ID,Surname,Forename,Username,Email_Address
+Axs31u,Mrsansoms,exj,exj01u,1,1,4165505,Sansom,Adam,axs31u,psyas4@nottingham.ac.uk
+goh01u,jiggyghallam,nargarawr,cxk01u,1,1,4162162,Hallam,George Oliver,goh01u,psygh@nottingham.ac.uk
+jxs21u,jmjs44,psytn2,txn02u,1,1,4160347,Sayers,Joshua,jxs21u,psyjs4@nottingham.ac.uk
+rxj01u,rossjarvis,arana5683,axr01u,1,1,4171950,Jarvis,Ross,rxj01u,psyrj@nottingham.ac.uk
+vxj11u,vai2liz,ntoka,kxs01u,1,1,4157927,Jarusevicius,Vaidas,vxj11u,psyvj1@nottingham.ac.uk
+axr01u,arana5683,rossjarvis,rxj01u,2,1,4173318,Rana,Aakash,axr01u,psyar1@nottingham.ac.uk
+cxk01u,nargarawr,jiggyghallam,goh01u,2,1,4159378,Knott,Craig,cxk01u,psyck@nottingham.ac.uk
+exj01u,exj,Mrsansoms,axs31u,2,1,4167827,Jones,Ethan,exj01u,psyej@nottingham.ac.uk
+kxs01u,ntoka,Vai2liz,vxj11u,2,1,4165833,Sendrauskas,Kristijonas,kxs01u,psyks@nottingham.ac.uk
+txn02u,psytn2,jmjs44,jxs21u,2,1,4188797,Nguyen Bui,Tai,txn02u,psytn2@nottingham.ac.uk
+axs11u,arjSharma,psygs1,gxs11u,3,1,4171646,Sharma,Arjun,axs11u,psyas2@nottingham.ac.uk
+kxm01u,kevinmandalia,Alexj55,ajj01u,3,1,4158636,Mandalia,Kevin,kxm01u,psykm1@nottingham.ac.uk
+mxa11u,ma3574,smenus,saf01u,3,1,4156421,Ahmed,Muhammed,mxa11u,psyma5@nottingham.ac.uk
+mxn01u,Melanie26,kixa,mxc01u,3,1,4118678,Niemandt,Melanie,mxn01u,psymn@nottingham.ac.uk
+mxp11u,SirFillLips,MoeBadr,mxa01u,3,1,4168183,Phillips,Matthew,mxp11u,psymp@nottingham.ac.uk
+ajj01u,alexj55,kevinmandalia,kxm01u,4,1,4167125,Jenkins,Alexander John Philip,ajj01u,psyajj@nottingham.ac.uk
+mxa01u,MoeBadr,SirFillLips,mxp11u,4,1,4154584,Abdullah,Mohamed,mxa01u,psyma6@nottingham.ac.uk
+mxc01u,kixa,Melanie26,mxn01u,4,1,4145168,Coward,Michael,mxc01u,psymc@nottingham.ac.uk
+gxs11u,psygs1,arjSharma4,axs11u,4,1,4160006,Santaniello,Gaetano,gxs11u,psygs1@nottingham.ac.uk
+saf01u,smenus,ma3574,mxa11u,4,1,4165084,Fleming,Sean Alexander,saf01u,psysf2@nottingham.ac.uk
+axm33u,a51f89,seantgd,sxd20u,5,1,4146386,Mohammed,Asif,axm33u,psyam@nottingham.ac.uk
+dxm01u,danjmorris,lukehovell,lxh01u,5,1,4164136,Morris,Daniel,dxm01u,psydm@nottingham.ac.uk
+hyb01u,hmonkey,entreated,rxf01u,5,1,4165091,Broadhead,Hayden Yaneeve,hyb01u,psyhb@nottingham.ac.uk
+mjn01u,marvinnicholl,roselady,crn01u,5,1,4115598,Nicholl,Marvin James,mjn01u,psymn1@nottingham.ac.uk
+mjs03u,stylesm,Psyec,esc01u,5,1,4111079,Styles,Matthew James,mjs03u,psydmjs@nottingham.ac.uk
+esc01u,Psyec,stylesm,mjs03u,6,1,4158710,Christian,Emma Sarah,esc01u,psyec@nottingham.ac.uk
+lxh01u,lukehovell,danjmorris,dxm01u,6,1,4165823,Hovell,Luke,lxh01u,psylh1@nottingham.ac.uk
+rxf01u,entreated,hmonkey,hyb01u,6,1,4157939,Fulton,Ryan,rxf01u,psyrf@nottingham.ac.uk
+sxd20u,seantdg,a51f89,axm33u,6,1,4120286,Davis,Sean,sxd20u,psysd1@nottingham.ac.uk
+crn01u,roselady,marvinnicholl,mjn01u,6,1,4161001,Nortje,Caitlin Rachael,crn01u,psycrno@nottingham.ac.uk
+axp01u,AntreasPas,AntonNotts  ,axd00u,7,1,4153262,Paschalis,Antreas,axp01u,psyap1@nottingham.ac.uk
+axs21u,armani-sharif,krhendro,hxa03u,7,1,4086929,Sharif,Armani,axs21u,psydas1@nottingham.ac.uk
+bxa01u,Benalexander57,BenYeomans,bmy01u,7,1,4173019,Alexander,Ben,bxa01u,psyba1@nottingham.ac.uk
+kes11u,katieS100,teato,too01u,7,1,4158911,Skelton,Kathryn Elizabeth,kes11u,pmyks@nottingham.ac.uk
+oxc01u,oxc01u,xxd03m,xxd03m,7,1,4160852,Cojocaru,Octavian-Laurentiu,oxc01u,psyoc@nottingham.ac.uk
+rht01u,rtamizian,tomduncs,tjd01u,7,1,4165925,Tamizian,Raffi Haig,rht01u,psyrt2@nottingham.ac.uk
+axd00u,AntonNotts  ,AntreasPas,axp01u,8,1,4094693,Dobrovolskyy,Anton,axd00u,pmydad@nottingham.ac.uk
+bmy01u,BenYeomans,Benalexander57,bxa01u,8,1,4160015,Yeomans,Benjamin Michael,bmy01u,psyby1@nottingham.ac.uk
+hxa03u,krhendro,armani-sharif,axs21u,8,1,4215320,Arieyanto,Hendro,hxa03u,psyha2@nottingham.ac.uk
+tjd01u,tomduncs,rtamazian,rht01u,8,1,4117625,Duncan,Thomas James,tjd01u,psytd@nottingham.ac.uk
+too01u,teato,katieS100,kes11u,8,1,4119321,Olushola,Taiwo Oluwabunmi,too01u,psyto@nottingham.ac.uk
+xxd03m,xxd03m,oxc01u,oxc01u,8,1,4214966,Du,Xiao,xxd03m,itxxd1@nottingham.ac.uk
+gpb01u,barrettg93,Sandall,jxs01u,9,1,4158731,Barrett,George Phillip,gpb01u,psygpb@nottingham.ac.uk
+jxr11u,joshrose54,,,9,1,4173094,Rose,Joshua,jxr11u,psyjr1@nottingham.ac.uk
+gxt01u,Gtret,,,9,1,4164503,Tretyakov,George,gxt01u,psygt@nottingham.ac.uk
+mxp21u,paymp1,,,9,1,4165389,Patel,Mehul,mxp21u,paymp1@nottingham.ac.uk
+exg00u,ewtia,,,9,1,4116674,Gudalevich,Evelina,exg00u,psyeg1@nottingham.ac.uk
+tjh01u,Tom Hadkiss,,,9,1,4158118,Hadkiss,Thomas James,tjh01u,psyth1@nottingham.ac.uk
+jbh00u,jaccah,,,10,1,4122597,Hooper,Jacca Barcla,jbh00u,psyjh1@nottingham.ac.uk
+jxs01u,Sandall,barrettg93,gpb01u,10,1,4157332,Sandall,Jack,jxs01u,psyjs5@nottingham.ac.uk
+kxb01u,,,,10,1,4158871,Beckles,Kyle,kxb01u,psykb1@nottingham.ac.uk
+sxs11u,stonesam92,,,10,1,4146271,Stone,Sam,sxs11u,plyss1@nottingham.ac.uk
+txk10u,tkuster92,,,10,1,4121314,Kuster,Thomas,txk10u,psytk1@nottingham.ac.uk
+axo00u,speedydragondotun,,,10,1,4119112,Omidiora,Adeotun,axo00u,psyao@nottingham.ac.uk
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,42,,,,,,,,
