@@ -43,10 +43,10 @@ too01u,Olusholataiwo,katieS100,kes11u,8,1,4119321,Olushola,Taiwo Oluwabunmi,too0
 xxd03m,xxd03m,oxc01u,oxc01u,8,1,4214966,Du,Xiao,xxd03m,itxxd1@nottingham.ac.uk
 gpb01u,barrettg93,Sandall,jxs01u,9,1,4158731,Barrett,George Phillip,gpb01u,psygpb@nottingham.ac.uk
 jxr11u,joshrose54,,,9,1,4173094,Rose,Joshua,jxr11u,psyjr1@nottingham.ac.uk
-gxt01u,Gtret,,,9,1,4164503,Tretyakov,George,gxt01u,psygt@nottingham.ac.uk
 mxp21u,paymp1,,,9,1,4165389,Patel,Mehul,mxp21u,paymp1@nottingham.ac.uk
 exg00u,ewtia,,,9,1,4116674,Gudalevich,Evelina,exg00u,psyeg1@nottingham.ac.uk
-tjh01u,Tom Hadkiss,,,9,1,4158118,Hadkiss,Thomas James,tjh01u,psyth1@nottingham.ac.uk
+tjh01u,Tom Hadkiss,gxt01u,Gtret,9,1,4158118,Hadkiss,Thomas James,tjh01u,psyth1@nottingham.ac.uk
+gxt01u,Gtret,tjh01u,Tom Hadkiss,10,1,4164503,Tretyakov,George,gxt01u,psygt@nottingham.ac.uk
 jbh00u,jaccah,,,10,1,4122597,Hooper,Jacca Barcla,jbh00u,psyjh1@nottingham.ac.uk
 jxs01u,Sandall,barrettg93,gpb01u,10,1,4157332,Sandall,Jack,jxs01u,psyjs5@nottingham.ac.uk
 kxb01u,,,,10,1,4158871,Beckles,Kyle,kxb01u,psykb1@nottingham.ac.uk
