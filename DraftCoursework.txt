@@ -1,0 +1,23 @@
+What we have done so far:
+You have by now been associated with a team and you are in a pair.  This may not be working exactly as some people did not turn up for the practice as being part of a pair.  So some people ended up paired with other people and some did not get pairs.  The pairs from now on are only for your convenience and if you don't like them or want to change them you can do so.  You could reflect your changes by editing the table on the public repository for the course held for drbatnott at git@github.com:drbatnott/G53SQM-2013.git and you can clone it in your machine so you can use it.  
+ Well you have been assigned to a project and I have messed around with group 10's project and one of the other projects is slightly differently configured.  
+What you should do:
+o	You should clone/branch the repository for your team.
+o	Make a branch (or make a branch and check this out)
+o	Add a class diagram that identifies it is your idea of the classes
+o	Commit your ideas and push to GitHub
+o	Check out everyone else’s ideas and add a file to your branch
+o	That says politely what you think of them
+o	Come to some consensus on the class structure
+o	Add your document to the master branch in a way that identifies you
+o	Come up with the Play Game use case
+o	Again outline your use case and publish it for the others
+o	Then add sub use cases to deliver the story
+o	With your group identify what you will do
+o	In your branch add the .model extension to the existing package
+o	Add your Class definition and 
+o	the appropriate JUnit test class for your contribution
+o	Write your test case
+o	make your test case (cases work)
+o	attempt to merge your work with others
+o	resolve resulting conflicts
